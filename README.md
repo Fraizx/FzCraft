@@ -2,6 +2,6 @@
 
 ________________________________________________________________________________________________________________
 
-### Servidor Por: [Fraizx](https://twitter.com/FraizxGD/)
+> Servidor Por: [Fraizx](https://twitter.com/FraizxGD/)
 
-#### Host: [Aternos](https://aternos.org/)
+> Host: [Aternos](https://aternos.org/)
