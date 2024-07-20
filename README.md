@@ -3,4 +3,4 @@
 ________________________________________________________________________________________________________________
 > Servidor Por: [Fraizx](https://twitter.com/FraizxGD/)
 > 
-> Versión: JAVA 1.16.4 | Premium / No Premium
+> Versión: JAVA 1.16.5 | Premium / No Premium
