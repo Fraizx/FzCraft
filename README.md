@@ -3,6 +3,4 @@
 ________________________________________________________________________________________________________________
 > Servidor Por: [Fraizx](https://twitter.com/FraizxGD/)
 > 
-> Host: [Aternos](https://aternos.org/)
->
 > Versión: JAVA 1.16.4 | Premium / No Premium
